@@ -146,12 +146,11 @@ ol {
 
 .content__card-link:hover {
   text-decoration-line: underline;
-  cursor: text;
+  cursor: pointer;
 }
 
 .content__card-link:active {
   background-color: #545050;
-  cursor: text;
 }
 
 .content__card-link:focus {
@@ -263,7 +262,6 @@ ol {
   color: #fff;
   font-weight: 700;
   padding: 6px 0px;
-  cursor: pointer;
 }
 
 .button:hover {
